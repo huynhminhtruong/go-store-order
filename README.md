@@ -1,5 +1,3 @@
-# go-store-order
-
 # Business Logic
 
 ### 1. List of products
