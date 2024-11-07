@@ -10,6 +10,8 @@
 
 - Select product from list of products
 - Create order from go-store-order
+  - Implement gRPC service to create an order
+  - Gen grpc-gateway code for HTTP POST request
 
 ### 3. Update a order request
 
@@ -21,7 +23,7 @@
 ### 4. Get an order by id
 
 - Implement gRPC service to get an order
-- Gen grpc-gateway code for HTTP POST request
+- Gen grpc-gateway code for HTTP GET request
 
 ### 5. Get list of orders
 
