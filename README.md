@@ -2,7 +2,7 @@
 
 ### 1. List of products
 
-- Get list product from go-store-service
+- Get list of products from go-store-service
   
 ### 2. Make an order
 
